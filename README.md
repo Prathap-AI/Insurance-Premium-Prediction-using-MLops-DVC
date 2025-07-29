@@ -8,7 +8,7 @@ https://insurance-premium-price-prediction.onrender.com/
 
 ![](https://github.com/praj2408/Insurance-Premium-Prediction-cicd/blob/main/static/img/Insurance%20Premium%20Prediction.gif)
 ### Dataset
-[Dataset](https://www.kaggle.com/noordeen/insurance-premium-prediction) is provided by Ineuron
+[Dataset](https://www.kaggle.com/noordeen/insurance-premium-prediction) is provided by Kaggle
 
 ## MLOps Level 1: ML Pipeline Automation Architecture
 The goal of level 1 is to perform continuous training of the model by automating the ML pipeline; this lets you achieve continuous delivery of model prediction service. To automate the process of using new data to retrain models in production, you need to introduce automated data and model validation steps to the pipeline, as well as pipeline triggers and metadata management.
